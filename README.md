@@ -1,8 +1,10 @@
 # Tankwars
 
-Author: Daniel Detwiller\n
-Date: 01-11-2020\n
-Version 1.0\n
+Author: Daniel Detwiller
+
+Date: 01-11-2020
+
+Version 1.0
 
 Consists of:
   Client: Where the user will connect to a server and play the game.
