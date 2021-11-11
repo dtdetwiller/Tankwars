@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "odHQLTEoFFUOFH4SlxiPbtHVK6SXozWmMIYBOqbNn/8CoHhGwhU1X5dIJUtbdJWU696bFeTcygLmIzB/CUu9YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dtdet\\source\\repos\\u1148322\\TankWars\\Vector2D\\Vector2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtdet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dtdet\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dtdet\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

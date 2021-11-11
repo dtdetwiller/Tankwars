@@ -1,0 +1,8 @@
+C:\Users\dtdet\source\repos\u1148322\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.deps.json
+C:\Users\dtdet\source\repos\u1148322\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.dll
+C:\Users\dtdet\source\repos\u1148322\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfoInputs.cache
+C:\Users\dtdet\source\repos\u1148322\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.AssemblyInfo.cs
+C:\Users\dtdet\Source\Repos\u1148322\TankWars\Vector2D\bin\Debug\netstandard2.0\Vector2D.pdb
+C:\Users\dtdet\Source\Repos\u1148322\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.csprojAssemblyReference.cache
+C:\Users\dtdet\Source\Repos\u1148322\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.dll
+C:\Users\dtdet\Source\Repos\u1148322\TankWars\Vector2D\obj\Debug\netstandard2.0\Vector2D.pdb
